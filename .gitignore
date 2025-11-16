@@ -1,2 +1,9 @@
-venv
+venv/
+.venv/
 .env
+
+# python bytecode and cache directories
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
